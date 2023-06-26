@@ -1,4 +1,3 @@
-# new
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  />
 </div>
