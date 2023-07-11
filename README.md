@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">👩‍💻<br>My name is Hatice. <br>🌱  I’m currently learning Flutter ❤️<br>🔭 I have recently graduated from Software Engineering. <br>I am currently working at a private company. I have been developing mobile applications in Flutter-Dart language for about a year.</h3>
+<h3 align="left">👩‍💻My name is Hatice. <br>🌱I’m currently learning Flutter ❤️<br>🔭 I have recently graduated from Software Engineering.I am currently working at a private company. I have been developing mobile applications in Flutter-Dart language for about a year.</h3>
 
 
 ###
