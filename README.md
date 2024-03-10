@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">I'm Hatice, a passionate software engineer with expertise in various fields such as mobile app development and some web development, some data science programming.</p>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g4eWRrMmhjZ2Y3cTZxYWVsZTcwbm1remVzODUxZ2VxeXYwZnkycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 </div>
+
+###
+
+<p align="left">I'm Hatice, a passionate software engineer with expertise in various fields such as mobile app development and some web development, some data science programming.</p>
 
 ###
 
